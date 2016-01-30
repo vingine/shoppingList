@@ -1,0 +1,4 @@
+1 asd;2 dasd;3 masd
+1 tomato;1 dasd;5 masd
+1 meat;2 tomato;3 milk;12 potato
+exit
